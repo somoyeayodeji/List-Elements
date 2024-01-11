@@ -1,2 +1,2 @@
 # List-Elements
-Codes how to write ordered and unordered lists in HTML
+Codes for writing ordered and unordered lists in HTML
